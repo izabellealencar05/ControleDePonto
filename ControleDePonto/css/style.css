@@ -1,3 +1,14 @@
-.data-hora{
+.data-hora {
     text-align: center;
+}
+
+#btn-bater-ponto {
+    display: block;
+    margin: 0 auto;
+}
+
+#btn-dialog-fechar {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
